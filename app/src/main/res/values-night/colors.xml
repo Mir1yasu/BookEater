@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="empty">#00000000</color>
+    <color name="white">#FF121212</color>
+    <color name="search">#FF2B2930</color>
+    <color name="gray">#FFB6B6B6</color>
+    <color name="shadow">#33000000</color>
+    <color name="black">#FFFFFFFF</color>
+    <color name="deep_teal">#FF31A18B</color>
+    <color name="dark_teal">#FF56B3A1</color>
+    <color name="teal">#FF278472</color>
+    <color name="shadow_teal">#99278472</color>
+    <color name="light_shadow_teal">#66278472</color>
+    <color name="mint">#0D0E0D</color>
+</resources>
